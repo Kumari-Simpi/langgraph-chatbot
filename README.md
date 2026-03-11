@@ -8,7 +8,8 @@ The chatbot intelligently routes your questions to the right tool — research p
 
 ## 🚀 Live Demo
 
-👉 [**Try it on Streamlit Cloud**](https://your-app.streamlit.app) *(replace with your URL after deployment)*
+👉 ## 🚀 Live Demo
+👉 [Click here to try the app](https://langgraph-chatbot-hvruasrz5lujsynrpf8yet.streamlit.app/)
 
 ---
 
@@ -131,12 +132,4 @@ TAVILY_API_KEY = "your_tavily_key_here"
 
 ---
 
-## 🧑‍💻 Author
 
-**Simpi** — B.Tech Computer Science | Aspiring Data Scientist
-
----
-
-## 📄 License
-
-MIT
